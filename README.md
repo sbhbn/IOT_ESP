@@ -12,3 +12,6 @@ Connecting HC-SR04 to sense distance with ESP8266 NodeMCU
 
 
 <img width="1920" height="1080" alt="於網頁顯示紅外線物體(ESP8266)及雷射偵測(ESP32 CAM)結果" src="https://github.com/user-attachments/assets/a072c0a3-7ab9-42e1-9d15-8e4b86e87a73" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-07 at 9 01 47 PM" src="https://github.com/user-attachments/assets/52cabf08-9300-4462-968c-df5fa112998a" />
