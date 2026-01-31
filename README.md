@@ -1,4 +1,4 @@
-# HC-SR04
+# HC-SR04 ESP32 Camera/ESP8266 Lazer
 Connecting HC-SR04 to sense distance with ESP8266 NodeMCU
 ![Screenshot 2025-04-18 at 8 21 20 PM](https://github.com/user-attachments/assets/71f6e3ee-6a41-4a28-967f-0ef47ab5f837)
 
