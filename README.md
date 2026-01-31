@@ -9,6 +9,7 @@ Connecting HC-SR04 to sense distance with ESP8266 NodeMCU
 
 ![加入call_API程式](https://github.com/user-attachments/assets/be7d218f-557a-4acf-8f2d-c99f713cabf7)
 
+Board:AI Thinker ESP32 CAM ,ESP8266 NodeMCU
 使用元件：ESP8266 NodeMCU, ESP32 CAM, MS_Senior_series,Lazer Module,IR receiver
 Upload Program:
 1.Hold Flash
